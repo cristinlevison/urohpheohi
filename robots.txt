@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iepheloos.shenanigans.lol/sitemap.xml
